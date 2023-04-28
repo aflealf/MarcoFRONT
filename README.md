@@ -7,5 +7,5 @@ Pasos de ejecución
 4. Ejecutar el proyecto 
         ng serve
 
-5. Abrir el navegador en el puesrto mostrado o por defecto 
+5. Abrir el navegador en el puerto mostrado o por defecto 
         http://localhost:4200
